@@ -6,7 +6,7 @@ The [authors.csv](authors.csv) in this repository is used to tag authors in the 
 
 ## Bluesky Starter Pack → Entra.News
 
-This bluesky information in the csv is used to create and maintain the [bluesky.entra.news](Entra.News Bluesky Starter Pack).
+This bluesky information in the csv is used to create and maintain [bluesky.entra.news](https://bluesky.entra.news) the [Entra.News Bluesky Starter Pack](https://bluesky.entra.news) featuring all Entra.News authors to help the community find and follow you easily.
 
 ## Missing information / updates?
 
